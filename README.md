@@ -37,8 +37,3 @@ Built with clean, modular, and maintainable code. All components follow a reusab
 ⚡ Super Fast<br>
 Thanks to Vite, the app offers instant hot reload, rapid builds, and outstanding performance both in dev and production.<br>
 
-
-✅ Random Forest outperformed other models with the best accuracy.<br>
-✅ Handling missing values & attribute engineering improved model performance.<br>
-✅ Cross-Validation ensured robust performance evaluation.<br>
-✅ Learned how EDA, feature engineering, and model tuning improve predictions.<br>
